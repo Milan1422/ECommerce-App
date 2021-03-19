@@ -15,7 +15,7 @@ Category.hasMany(Product,{
 // Products belongToMany Tags (through ProductTag)
 Product.belongsToMany(Tag, {
   through: {
-    mdoel: ProductTag,
+    model: ProductTag,
     unique: false
   },
   as: 'product_tagId'
