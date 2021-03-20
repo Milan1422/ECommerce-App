@@ -32,7 +32,7 @@ then run server again to start working with postman
 ![server](imgs/server.png)
 
 ## Video Walkthrough
-[Walkthrough] 
+[Walkthrough] https://drive.google.com/file/d/1tbodqt5_2--Z5TKCd0h7Nw50015zfYEz/view
 
 ## Credits
 
